@@ -3,15 +3,22 @@ tailwind.config = {
     theme: {
         extend: {
             colors: {
-                'deep-space': '#060606',
+                // Primary Colors
+                'deep-space': '#0B1220',
                 'quantum-blue': '#4A90E2',
                 'electric-cyan': '#00D9FF',
+
+                // Secondary Colors
                 'slate-gray': '#7C8BA1',
                 'soft-white': '#F8F9FA',
                 'carbon': '#1A1A1A',
-                'success-green': '#00E676',
-                'warning-amber': '#FFB300',
-                'alert-red': '#FF3D00',
+
+                // Life Area Colors
+                'success-green': '#00E676',      // Health
+                'soft-coral': '#FF6B9D',         // Love
+                'lavender-calm': '#9D84B7',      // Learning
+                'warning-amber': '#FFB300',       // Attention
+                'alert-red': '#FF3D00',          // Alert
             },
             fontFamily: {
                 'sans': ['Inter', 'system-ui', '-apple-system', 'sans-serif'],

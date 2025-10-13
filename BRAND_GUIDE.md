@@ -2,136 +2,116 @@
 
 ## Brand Overview
 
-Robert is an AI assistant that automates your browser tasks, helping busy professionals reclaim their time. The brand reflects transparency, simplicity, and empowerment—automation you can see, understand, and trust.
+Robert is your transparent AI companion for navigating life with grace. Like a trusted parent who handled life's complexities so you could live freely, Robert helps you move through the important moments—job, health, love, and learning—with clarity and confidence.
 
-**Brand Promise:** "Get your time back. Automate the repetitive."
+**Brand Promise:** "Navigate life with grace."
+
+**Core Philosophy:**
+We want to conjure ideas of childhood bliss—a time when you had no worries because your parents kept the dull particulars of living out of the way. Robert brings back that feeling by handling life's complexities transparently, so you can focus on what truly matters.
 
 **Core Values:**
-- Time-Saving & Efficiency
-- Transparency & Trust
-- Simplicity & Ease
-- Reliability & Control
+- Humans helping humans through life
+- Complete transparency - see what's happening, always
+- Your privacy, your settings, your control
+- Grace over friction in life's journey
 
 **Target Audience:**
-Busy professionals managing work and home life who spend too much time on repetitive browser tasks—comparing prices, filling forms, booking travel, tracking orders, researching products. They want solutions that work, not tech projects.
+People navigating life's important moments and transitions—career changes, health decisions, relationships, and personal growth. They want a companion who understands, helps clearly, and respects their agency.
+
+**Four Life Areas We Support:**
+1. **Job** - Career navigation, transitions, opportunities
+2. **Health** - Wellness decisions, providers, appointments
+3. **Love** - Relationships, meaningful connections, thoughtful moments
+4. **Learning** - Education, growth, curiosity, new skills
 
 ---
 
-## Brand Identity & What We Communicate
+## Brand Identity & Emotional Design
 
-### Inspired by Project Mariner
+### The Childhood Bliss Principle
 
-Project Mariner establishes a sophisticated brand identity that communicates **effortless technological advancement**. Their design language signals:
+**Core Concept:**
+Remember childhood—when your world felt magical because someone else handled the boring details? That's the feeling Robert evokes. Not by hiding complexity, but by managing it with such transparency and care that you feel supported, not burdened.
 
 **Emotional Qualities:**
-- **Confidence without arrogance** — Sleek and polished, but not intimidating
-- **Intelligence that's approachable** — Advanced technology made intuitive
-- **Future-forward optimism** — This is where digital interaction is heading
-- **Calm mastery** — Powerful capabilities delivered with quiet sophistication
+- **Protected without being patronized** — Supported but still in control
+- **Clarity without complexity** — Everything is visible, nothing is confusing
+- **Grace without friction** — Life's transitions made smoother
+- **Wonder without worry** — Focus on the meaningful, not the mechanical
+
+### Visual Language: Children's Art & Matisse
+
+Our visual aesthetic draws from:
+
+**Children's Art:**
+- Simple, honest geometric shapes
+- Playful forms that feel handmade
+- Colors that evoke joy and optimism
+- Abstract without being cold
+
+**Matisse Collage:**
+- Organic cutout shapes
+- Bold, purposeful color placement
+- Composition that feels both intentional and free
+- Forms that suggest movement and life
+
+**Abstract Mobiles:**
+- Gentle, floating elements
+- Balance and harmony in motion
+- Shapes that interact but don't crowd
+- A sense of peaceful suspension
 
 **Design Philosophy:**
-- **Minimalism as power** — What's not shown is as important as what is
-- **Darkness as focus** — Black backgrounds eliminate distraction, center attention
-- **Whitespace as luxury** — Generous spacing signals premium quality and thoughtfulness
-- **Subtlety as sophistication** — Gentle gradients, soft shadows, refined micro-interactions
+- **Simplicity as kindness** — Easy to understand is easy to trust
+- **Playfulness as humanity** — We're helping humans, not managing tasks
+- **Geometry as honesty** — Clear shapes, clear intentions
+- **Color as emotion** — Purposeful palette that feels warm yet clear
 
-**User Feeling:**
-When experiencing Project Mariner's brand, users should feel:
-- **Empowered** — "This technology extends my capabilities"
-- **Supported** — "I have an intelligent partner"
-- **Confident** — "This just works"
-- **Forward-thinking** — "I'm experiencing the future"
+---
 
-### Robert's Brand Identity Evolution
+## What Robert Communicates
 
-While we draw inspiration from Mariner's sophisticated minimalism, Robert differentiates by adding:
+### Primary Emotional Response
+"Finally, someone to help me through life's important moments—and I can see exactly what's happening. This feels like having someone who truly cares."
 
-**Warmth to Intelligence**
-- Mariner: Cool, professional, Google-institutional
-- Robert: Warm, personal, approachable yet capable
+### Brand Personality Attributes
 
-**Visibility to Mystery**
-- Mariner: Smooth black box that "just works"
-- Robert: Transparent process you can understand and trust
+1. **Human & Caring**
+   - Like a wise, patient companion
+   - Present without being intrusive
+   - Genuinely helpful, not transactional
 
-**Personal to Enterprise**
-- Mariner: Enterprise, Google ecosystem, premium positioning
-- Robert: Personal tool, independent, yours to control
+2. **Transparent & Trustworthy**
+   - Shows you everything
+   - Your settings stay yours
+   - No hidden agendas or black boxes
 
-**Inclusive to Exclusive**
-- Mariner: Premium feel ($249/month positioning)
-- Robert: Democratic access, automation for everyone
+3. **Graceful & Calm**
+   - Removes friction from transitions
+   - Handles complexity with elegance
+   - Never rushed, never anxious
 
-### What Robert's Brand Identity Communicates
-
-**Primary Emotional Response:**
-"Finally, a way to automate those tedious tasks that eat up my day—and I can actually see what it's doing."
-
-**Brand Personality Attributes:**
-
-1. **Helpful & Trustworthy**
-   - Like a reliable assistant
-   - Shows you what it's doing
-   - Never surprising, always clear
-
-2. **Simple & Approachable**
-   - No technical knowledge needed
-   - Just talk and it works
-   - Built for real people, not developers
-
-3. **Professional & Polished**
-   - Sophisticated appearance
-   - Works reliably
-   - Respects your time
-
-4. **Empowering & Liberating**
-   - Gives you back hours each week
-   - Handles the boring stuff
-   - You stay in control
-
-**Aspirational Quality:**
-
-"I want to stop wasting time on repetitive browser tasks. I need something that just works, that I can trust, and that gives me my evenings and weekends back. I don't want to learn programming—I want solutions."
-
-### Visual Hierarchy Signals Trust
-
-**Strategic Spacing:**
-- Generous whitespace = "We're not rushing you"
-- Clear separation = "Each element has purpose"
-- Breathing room = "This is premium, thoughtful"
-
-**Typographic Weight:**
-- Bold headlines = Confidence and clarity
-- Light hero text = Sophisticated, not shouting
-- Medium body text = Easy, comfortable reading
-
-**Color Strategy:**
-- Deep blacks = Premium, focused
-- High contrast text = Transparent, nothing hidden
-- Electric cyan accents = Energy, action, visibility
-- Strategic color use = Purposeful, not decorative
-
-**Visual Rhythm:**
-- Consistent geometric elements = Reliable, trustworthy
-- Predictable patterns = Learnable, controllable
-- Smooth transitions = Effortless experience
+4. **Empowering & Respectful**
+   - You remain in control
+   - Your privacy is sacred
+   - Supports your journey without taking over
 
 ### User Journey & Emotional Arc
 
 **First Impression (Hero):**
-"Oh interesting—this could save me so much time."
+"This feels different—more human, more caring. Like it actually understands what I'm going through."
 
-**Reading Features:**
-"I can just tell it what to do? And watch it work? No programming?"
+**Reading Use Cases:**
+"Oh, this isn't just about tasks. It's about the big things: my career, my health, my relationships, my growth."
 
-**Understanding Control:**
-"I can pause or stop it anytime? I can see every step?"
+**Understanding Transparency:**
+"I can see everything it does? My settings stay private? This is exactly what I need."
 
 **Taking Action (CTA):**
-"This could give me back hours each week. I'm trying this."
+"I want to move through life with more grace. Let me try this."
 
 **Lasting Feeling:**
-"I can't believe I was doing all that manually. This is a game-changer."
+"Having Robert feels like having someone who truly has my back. I can focus on what matters."
 
 ---
 
@@ -140,53 +120,58 @@ While we draw inspiration from Mariner's sophisticated minimalism, Robert differ
 ### Primary Colors
 
 **Deep Space**
-- Hex: `#060606`
-- Usage: Primary background, establishes sophisticated, focused environment
-- Inspiration: Project Mariner's dark aesthetic
+- Hex: `#0B1220`
+- Usage: Primary background, creates calm focus
+- Feeling: Night sky, peaceful, protective
 
 **Quantum Blue**
 - Hex: `#4A90E2`
-- Usage: Primary action elements, links, key highlights
-- Associations: Intelligence, trust, technology
+- Usage: Primary interactive elements, key highlights
+- Associations: Trust, intelligence, clarity
 
 **Electric Cyan**
 - Hex: `#00D9FF`
-- Usage: Active states, success indicators, visual automation feedback
-- Associations: Energy, visibility, "watching automation happen"
+- Usage: Active states, "seeing what's happening" moments
+- Associations: Transparency, visibility, action
 
 ### Secondary Colors
 
 **Slate Gray**
 - Hex: `#7C8BA1`
-- Usage: Secondary text, subtle UI elements
-- Purpose: Readability without harshness
+- Usage: Secondary text, subtle elements
+- Purpose: Gentle, never harsh
 
 **Soft White**
 - Hex: `#F8F9FA`
-- Usage: Primary text on dark backgrounds, emphasis areas
-- Purpose: Maximum readability and contrast
+- Usage: Primary text, emphasis
+- Purpose: Clear, readable, honest
 
 **Carbon**
 - Hex: `#1A1A1A`
-- Usage: Secondary backgrounds, card surfaces, layering
-- Purpose: Depth and visual hierarchy
+- Usage: Cards, secondary surfaces
+- Purpose: Depth without darkness
 
-### Accent Colors
+### Accent Colors (Inspired by Children's Art)
 
 **Success Green**
 - Hex: `#00E676`
-- Usage: Completion states, positive feedback
-- Context: "See it work, trust it works"
+- Usage: Completion, positive moments
+- Feeling: Growth, health, renewal
 
 **Warning Amber**
 - Hex: `#FFB300`
-- Usage: Pause states, requires attention
-- Context: User control notifications
+- Usage: Gentle alerts, attention needed
+- Feeling: Warmth, care, notice
 
-**Alert Red**
-- Hex: `#FF3D00`
-- Usage: Stop/abort actions, critical warnings
-- Context: Respecting user control
+**Soft Coral** (New)
+- Hex: `#FF6B9D`
+- Usage: Love & relationships contexts
+- Feeling: Connection, warmth, humanity
+
+**Lavender Calm** (New)
+- Hex: `#9D84B7`
+- Usage: Learning & growth contexts
+- Feeling: Curiosity, peace, expansion
 
 ---
 
@@ -195,42 +180,58 @@ While we draw inspiration from Mariner's sophisticated minimalism, Robert differ
 ### Primary Typeface: **Inter**
 
 **Why Inter:**
-- Highly legible at all sizes
-- Modern, clean, technical aesthetic
-- Excellent for UI and body text
-- Open-source and web-optimized
-- Similar quality to Google Sans
-
-**Usage:**
-- All body text
-- UI elements
-- Navigation
-- Captions
+- Incredibly readable and warm
+- Modern without being cold
+- Works beautifully at all sizes
+- Approachable yet professional
 
 **Weights:**
-- Light (300): Large headings, hero text
-- Regular (400): Body text, paragraphs
-- Medium (500): Subheadings, emphasis
+- Light (300): Hero headlines (conveys grace)
+- Regular (400): Body text (easy reading)
+- Medium (500): Subheadings (gentle emphasis)
 - Semibold (600): Buttons, calls-to-action
-- Bold (700): Major headings
+- Bold (700): Section headings (confident clarity)
 
-### Alternative: **Google Sans** / **IBM Plex Sans**
+**Usage Philosophy:**
+Typography should feel like a conversation with someone who cares. Not too loud, not too quiet. Just right.
 
-If Inter is unavailable or for specific brand applications where you want to align closer to Google's aesthetic.
+---
 
-### Monospace: **JetBrains Mono**
+## Visual Design System
 
-**Why JetBrains Mono:**
-- Perfect for showing automation scripts
-- Markdown-based script displays
-- Code snippets and technical content
-- Developer-friendly while remaining accessible
+### Matisse-Inspired Organic Shapes
 
-**Usage:**
-- Code blocks
-- Script previews
-- Technical specifications
-- Terminal/console representations
+We use playful, geometric cutout shapes throughout the design:
+
+**Shape Library:**
+- Organic leaves (growth, health)
+- Abstract circles (wholeness, completeness)
+- Playful rectangles (stability, foundation)
+- Wavy forms (flow, movement)
+- Crescent moons (rest, renewal)
+- Simple stars (wonder, aspiration)
+
+**Application:**
+- Background elements that float gently
+- Decorative accents that don't distract
+- Mobile-like compositions suggesting balance
+- Colors that evoke childhood joy
+
+### Animation Principles
+
+**Like an Abstract Mobile:**
+- Gentle floating movements
+- Slow, peaceful rotations
+- Elements that breathe and sway
+- Never jarring, always calming
+
+**Timing:**
+- Slow: 15-22s for ambient animations
+- Medium: 300-500ms for interactions
+- Fast: 200ms for micro-interactions
+
+**Philosophy:**
+Every movement should feel like a gentle breeze, not a sudden gust.
 
 ---
 
@@ -239,70 +240,138 @@ If Inter is unavailable or for specific brand applications where you want to ali
 ### Photography
 
 **Style Guidelines:**
-- Dark, atmospheric backgrounds
-- High contrast with focused subjects
-- Minimal, uncluttered compositions
-- Human hands interacting with technology (represents accessibility)
+- Natural, honest human moments
+- Life transitions and important decisions
+- Hands, faces, gentle interactions
+- Warm lighting, never harsh
+
+**Contexts:**
+- Career: Confident but contemplative
+- Health: Calm, supported, clear
+- Love: Warm, genuine connection
+- Learning: Curiosity and wonder
 
 **Avoid:**
-- Overly bright, stock-photo aesthetics
-- Generic business imagery
-- Cluttered scenes
+- Stock photo artifice
+- Cold, corporate aesthetics
+- Overly staged scenarios
 
-### Illustrations & Graphics
+### Illustrations
 
-**Visual Language:**
-- Isometric or 2.5D illustrations showing browser windows and automation flows
-- Line art with selective color highlights (Electric Cyan, Quantum Blue)
-- Flow diagrams showing task → automation → results
-- Transparent overlays showing "behind the scenes" of automation
+**Matisse Collage Style:**
+- Simple geometric cutouts
+- Organic, hand-crafted feeling
+- Bold, purposeful color use
+- Compositions that feel balanced
 
-**Key Visual Metaphors:**
-- Browser windows as controllable spaces
-- Task descriptions transforming into action
-- Transparent layers showing process visibility
-- Pause/play/abort controls emphasizing user power
+**Children's Art Influence:**
+- Honest, simple forms
+- Playful without being juvenile
+- Abstract without being confusing
+- Joyful, optimistic energy
 
-### UI Screenshots
+---
 
-**Presentation:**
-- Dark themed screenshots
-- Subtle glows or highlights on active elements
-- Show real-time feedback and transparency
-- Demonstrate task execution and visual feedback
+## Voice & Tone
 
-**Composition:**
-- Clean browser chrome
-- Visible automation steps
-- Clear visual hierarchy
-- Real, authentic workflows (not mockups)
+### Brand Voice Attributes
 
-### Iconography
+**Human & Present**
+- "We're here for you"
+- "Let's figure this out together"
+- Warm, patient, never rushed
 
-**Style:**
-- Rounded, friendly geometric shapes
-- 2px stroke weight
-- Minimal, clear silhouettes
-- Consistent with Material Design principles
+**Clear & Honest**
+- "Here's what I'm doing"
+- "Your settings belong to you"
+- No corporate speak, no jargon
 
-**Color Application:**
-- Primary icons: Soft White (#F8F9FA)
-- Active/interactive: Electric Cyan (#00D9FF)
-- Success: Success Green (#00E676)
+**Graceful & Calm**
+- "Take your time"
+- "One step at a time"
+- Never anxious, never pressuring
+
+**Empowering & Respectful**
+- "You decide"
+- "Always in your control"
+- Supportive, not directive
+
+### Messaging Hierarchy
+
+**Primary Tagline:**
+"Navigate life with grace"
+
+**Supporting Lines:**
+- "Your transparent AI companion for life's journey"
+- "Humans helping you through job, health, love, and learning"
+- "See what's happening. Keep your privacy. Move with grace."
+
+**Core Messages:**
+
+1. **Life Companion**
+   - Not just task automation
+   - A companion for meaningful moments
+   - Job, health, love, learning support
+
+2. **Transparency**
+   - See what your agent is doing
+   - Every action visible
+   - No hidden behavior
+
+3. **Privacy & Control**
+   - Your settings belong to you
+   - Completely private
+   - You're always in charge
+
+4. **Grace Through Life**
+   - Moving through transitions smoothly
+   - Reducing friction, adding clarity
+   - Like childhood—supported, not burdened
+
+### Writing Style
+
+**Do:**
+- Speak like a caring friend
+- Use "we" and "you" to create connection
+- Focus on life moments, not features
+- Be specific about the four areas: job, health, love, learning
+- Show empathy for transitions and decisions
+
+**Don't:**
+- Use corporate jargon
+- Focus on technical details
+- Rush or pressure
+- Be vague about what Robert does
+- Treat users as "customers" rather than humans
+
+### Example Copy
+
+**Hero:**
+```
+Navigate Life with Grace
+
+Your transparent AI companion for job, health, love, and learning.
+See what it's doing. Your settings, your privacy.
+```
+
+**Use Cases:**
+```
+Job: Navigate career transitions with confidence
+Health: Support your wellness journey with clarity
+Love: Nurture meaningful connections thoughtfully
+Learning: Fuel your curiosity and growth
+```
 
 ---
 
 ## Layout & Spacing
 
-### Grid System
+### Spacing Philosophy
 
-- **Desktop:** 12-column grid with 24px gutters
-- **Tablet:** 8-column grid with 20px gutters
-- **Mobile:** 4-column grid with 16px gutters
+**Generous Whitespace:**
+Like childhood, when there was room to breathe and play. Space signals care, not crowding.
 
-### Spacing Scale
-
-Based on 8px baseline:
+**Spacing Scale (8px baseline):**
 - XS: 8px
 - S: 16px
 - M: 24px
@@ -311,341 +380,179 @@ Based on 8px baseline:
 - XXL: 64px
 - XXXL: 96px
 
-### Container Max-Width
+### Composition
 
-- Hero sections: 1440px
-- Content sections: 1200px
-- Text-heavy sections: 800px
-
----
-
-## Voice & Tone
-
-### Brand Voice Attributes
-
-**Time-Respecting**
-- "Get your time back"
-- "Stop wasting hours on repetitive tasks"
-- Focus on real productivity gains
-
-**Clear & Honest**
-- "See exactly what's happening"
-- "No surprises, just results"
-- Straightforward benefits
-
-**Helpful & Friendly**
-- "Just tell Robert what you need"
-- "Simple enough for anyone"
-- Warm, supportive tone
-
-**Results-Oriented**
-- Focus on outcomes, not features
-- Real use cases: shopping, booking, research
-- Practical, everyday solutions
-
-### Messaging Hierarchy
-
-**Primary Tagline:**
-"Your personal assistant for repetitive browser tasks"
-
-**Alternative Taglines:**
-- "Automate your browser. Save your time. See it work."
-- "Stop doing it manually. Let Robert handle it."
-- "Browser automation you can actually understand."
-
-**Value Propositions:**
-1. **Time-Saving:** Reclaim hours every week from repetitive tasks
-2. **Simple:** Just describe what you need—no technical skills required
-3. **Transparent:** Watch Robert work in real-time, see every action
-4. **Reliable:** Handles boring tasks while you focus on what matters
-
-**Key Use Cases:**
-- Compare prices across multiple shopping sites
-- Fill out repetitive forms and applications
-- Book travel and find best rates
-- Track orders and deliveries
-- Research products and services
-- Monitor price changes and deals
-
-### Writing Style
-
-**Do:**
-- Focus on time saved and tasks completed
-- Use relatable, everyday scenarios
-- Lead with real-world benefits
-- Speak to busy professionals
-- Emphasize simplicity and results
-
-**Don't:**
-- Talk about technical architecture
-- Mention "open source" or "GitHub"
-- Use developer terminology
-- Focus on how it's built vs. what it does
-- Make it sound like a tech project
+**Mobile-Like Balance:**
+- Elements that feel suspended
+- Asymmetric but balanced
+- Playful geometry that guides the eye
+- Matisse-inspired arrangements
 
 ---
 
-## UI Patterns
-
-### Buttons
-
-**Primary Button:**
-- Background: Quantum Blue (#4A90E2)
-- Text: Soft White (#F8F9FA)
-- Hover: Lighten 10%
-- Border radius: 8px
-- Padding: 12px 24px
-- Font: Inter Semibold (600)
-
-**Secondary Button:**
-- Background: Transparent
-- Border: 2px solid Slate Gray (#7C8BA1)
-- Text: Soft White (#F8F9FA)
-- Hover: Border becomes Electric Cyan
-
-**CTA Button:**
-- Background: Electric Cyan (#00D9FF)
-- Text: Deep Space (#060606)
-- Hover: Subtle glow effect
+## UI Components
 
 ### Cards
 
-- Background: Carbon (#1A1A1A)
-- Border radius: 12px
-- Padding: 24px
-- Subtle shadow or glow on hover
-- 1px border in Slate Gray at 20% opacity
+**Style:**
+- Organic shapes with gentle rounded corners
+- Playful colored accents on hover
+- Geometric decoration inspired by children's art
+- Depth without heaviness
 
-### Navigation
+**Interaction:**
+- Gentle scale on hover (1.02)
+- Soft colored glow (not harsh)
+- Smooth, patient transitions
 
-- Fixed or sticky header
-- Dark background (Deep Space)
-- Transparent when at top, solid on scroll
-- Clean, minimal menu structure
+### Buttons
 
----
+**Primary CTA:**
+- Electric Cyan background
+- Deep Space text
+- Soft glow on hover
+- Rounded (12px) for friendliness
 
-## Animation & Motion
+**Secondary:**
+- Transparent with border
+- Quantum Blue accent
+- Clean, respectful
 
-### Principles
+### Step Indicators
 
-**Purposeful:** Every animation should communicate state or guide attention
-**Smooth:** Ease-in-out curves, natural motion
-**Quick:** 200-300ms for micro-interactions, 400-600ms for major transitions
-**Transparent:** Motion should reveal, not obscure
-
-### Key Animations
-
-**Automation Visualization:**
-- Pulse effects on active automation steps
-- Smooth fade-ins for completed steps
-- Progress indicators with fluid motion
-
-**Interactive Elements:**
-- Subtle scale on hover (1.02-1.05x)
-- Color transitions (200ms)
-- Smooth opacity changes
-
-**Page Transitions:**
-- Fade and slight upward motion for new content
-- Staggered reveals for lists/cards
+**Playful Number Circles:**
+- Large, friendly circles
+- Bold numbers
+- Gentle rotation on hover (5deg)
+- Like children's building blocks
 
 ---
 
-## Responsive Considerations
+## The Four Life Areas
 
-### Breakpoints
+### Visual Language by Context
 
-- Mobile: 320px - 767px
-- Tablet: 768px - 1023px
-- Desktop: 1024px - 1439px
-- Large Desktop: 1440px+
+**Job:**
+- Colors: Quantum Blue, Electric Cyan
+- Shapes: Stable rectangles, confident forms
+- Feeling: Professional yet human
 
-### Mobile Optimization
+**Health:**
+- Colors: Success Green, soft accents
+- Shapes: Organic leaves, flowing forms
+- Feeling: Calm, supported, clear
 
-- Larger touch targets (minimum 44px)
-- Simplified navigation
-- Full-width hero sections
-- Stacked layouts for feature comparisons
-- Clear task input prominently featured (core to product)
+**Love:**
+- Colors: Soft Coral, warm tones
+- Shapes: Hearts, connected circles, waves
+- Feeling: Warm, genuine, caring
+
+**Learning:**
+- Colors: Lavender Calm, curious accents
+- Shapes: Stars, ascending forms, books
+- Feeling: Wonder, growth, exploration
 
 ---
 
 ## Accessibility
 
-### Contrast Ratios
+### Design for All
 
-- Body text: Minimum 4.5:1 (WCAG AA)
-- Large text: Minimum 3:1
-- UI components: Minimum 3:1
+**Contrast:**
+- Minimum 4.5:1 for body text
+- Minimum 3:1 for large text
+- High contrast = high clarity = high care
 
-### Focus States
+**Interaction:**
+- Large touch targets (min 44px)
+- Clear focus states (Electric Cyan outline)
+- Never hide what's happening
 
-- 2px solid Electric Cyan outline
-- 4px offset from element
-- Never remove focus indicators
-
-### Screen Readers
-
-- Semantic HTML structure
-- Descriptive alt text for all images
-- ARIA labels for interactive elements
-- Logical tab order
-
----
-
-## Brand Applications
-
-### Landing Page Hero
-
-**Structure:**
-- Large, bold headline using Inter Light (300) at 56-72px
-- Supporting subheading at 20-24px
-- Primary CTA button (Electric Cyan)
-- Hero visual: Screenshot or video of Robert in action on dark background
-
-**Example:**
-```
-[Headline]
-Stop Wasting Time on Repetitive Browser Tasks
-Let Robert Handle the Boring Stuff
-
-[Subheading]
-Your personal assistant for shopping, booking, and research.
-Just describe what you need—Robert handles the rest.
-
-[CTA Button]
-Get Robert Free
-```
-
-### Feature Sections
-
-- Alternating layout (image left/right)
-- Icon + Headline + Description pattern
-- Dark backgrounds with colorful accent highlights
-- Real screenshots demonstrating transparency
-
-### Footer
-
-- Dark background (Deep Space)
-- Minimal design
-- Clear hierarchy: Product | Company | Resources
-- Social links with hover states
-- Privacy-focused messaging
-
----
-
-## Competitive Differentiation
-
-### vs. Project Mariner
-- **Robert:** Personal productivity tool for busy professionals
-- **Mariner:** Enterprise solution with premium pricing
-
-### vs. Manual Browser Tasks
-- **Robert:** Hours saved each week, error-free automation
-- **Manual:** Time-consuming, tedious, error-prone
-
-### Visual Distinction
-While inspired by Mariner's sleek aesthetic, Robert emphasizes:
-- **Practical Benefits:** Time saved, tasks completed
-- **Real Use Cases:** Shopping, booking, research scenarios
-- **Transparency:** Show what it's doing in plain language
-- **Accessibility:** Built for everyone, not just tech enthusiasts
-
----
-
-## Files & Assets
-
-### Recommended Asset Structure
-
-```
-/assets
-  /images
-    /hero
-    /features
-    /screenshots
-  /icons
-  /logos
-    robert-logo.svg
-    robert-wordmark.svg
-  /fonts
-    /inter
-    /jetbrains-mono
-```
-
-### Logo Specifications
-
-**Minimum Clear Space:** 16px on all sides
-**Minimum Size:** 32px height
-**File Formats:** SVG (primary), PNG (fallback)
-
-**Color Variations:**
-- Full color on dark
-- Monochrome white
-- Monochrome black (for light backgrounds, if needed)
+**Language:**
+- Clear, simple words
+- No jargon barriers
+- Respectful of all reading levels
 
 ---
 
 ## Implementation Notes
 
-### CSS Variables Example
+### CSS Custom Properties
 
 ```css
 :root {
-  /* Colors */
-  --color-deep-space: #060606;
+  /* Brand Colors */
+  --color-deep-space: #0B1220;
   --color-quantum-blue: #4A90E2;
   --color-electric-cyan: #00D9FF;
   --color-slate-gray: #7C8BA1;
   --color-soft-white: #F8F9FA;
   --color-carbon: #1A1A1A;
-  --color-success-green: #00E676;
-  --color-warning-amber: #FFB300;
-  --color-alert-red: #FF3D00;
+
+  /* Life Area Colors */
+  --color-success-green: #00E676; /* Health */
+  --color-soft-coral: #FF6B9D; /* Love */
+  --color-lavender-calm: #9D84B7; /* Learning */
+  --color-warning-amber: #FFB300; /* Attention */
 
   /* Typography */
-  --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+  --font-primary: 'Inter', -apple-system, sans-serif;
 
-  /* Spacing */
-  --space-xs: 8px;
-  --space-s: 16px;
-  --space-m: 24px;
-  --space-l: 32px;
-  --space-xl: 48px;
-  --space-xxl: 64px;
-  --space-xxxl: 96px;
-
-  /* Border Radius */
-  --radius-sm: 4px;
-  --radius-md: 8px;
-  --radius-lg: 12px;
-  --radius-xl: 16px;
-
-  /* Transitions */
-  --transition-fast: 200ms ease-in-out;
-  --transition-medium: 400ms ease-in-out;
+  /* Motion */
+  --motion-gentle: 20s ease-in-out;
+  --motion-interaction: 300ms ease-in-out;
+  --motion-quick: 200ms ease-in-out;
 }
+```
+
+### Organic Shape Classes
+
+```css
+.organic-leaf { /* Growth, health */ }
+.organic-circle { /* Wholeness */ }
+.organic-square { /* Stability */ }
+.organic-wave { /* Flow */ }
+.organic-crescent { /* Rest */ }
+.organic-star { /* Wonder */ }
 ```
 
 ---
 
 ## Brand Checklist
 
-When creating any Robert-branded materials, ensure:
+When creating Robert-branded materials:
 
-- [ ] Dark background (Deep Space or Carbon) for focus and sophistication
-- [ ] High contrast text (Soft White on dark) for clarity
-- [ ] Inter font family used consistently
-- [ ] Accent colors used purposefully (Electric Cyan for interactivity)
-- [ ] Imagery shows real-world use cases (shopping, booking, research)
-- [ ] Messaging emphasizes time saved and tasks completed
-- [ ] Focus on busy professionals, not developers
-- [ ] No technical jargon or mentions of implementation details
-- [ ] Lead with benefits and results, not features
-- [ ] Show transparency and user control visually
+- [ ] Does it evoke the feeling of childhood bliss—supported, not burdened?
+- [ ] Are organic, Matisse-inspired shapes present?
+- [ ] Is transparency clearly communicated?
+- [ ] Does copy focus on the four life areas: job, health, love, learning?
+- [ ] Is "your settings, your privacy" messaging clear?
+- [ ] Does it feel warm, human, and caring (not corporate)?
+- [ ] Are interactions gentle, like a mobile swaying?
+- [ ] Is the tagline "Navigate life with grace" reflected?
+- [ ] Would this feel like a companion, not a tool?
+- [ ] Does everything you show respect the user's intelligence and agency?
+
+---
+
+## Competitive Positioning
+
+### What Makes Robert Different
+
+**Not a Task Manager:**
+Robert isn't about checking off todos. It's about navigating life's meaningful moments with a caring companion.
+
+**Not a Black Box:**
+Complete transparency. See everything. Your settings belong to you.
+
+**Not Cold AI:**
+Warm, human-centered design. Inspired by childhood, Matisse, and genuine care.
+
+### Brand Essence in One Sentence
+
+"Robert brings back the feeling of childhood bliss—when someone who cared handled life's complexities, so you could move through your world with grace and wonder."
 
 ---
 
 **Last Updated:** October 2025
-**Version:** 1.0
+**Version:** 2.0 - Life Companion Edition
