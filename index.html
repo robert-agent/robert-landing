@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Robert - Navigate Life with Grace</title>
-    <meta name="description" content="Your transparent AI companion for life's journey. Robert helps you navigate job, health, love, and learning with clarity and control.">
+    <title>Robert - Your Life Companion</title>
+    <meta name="description" content="Navigate life with grace. Robert is your transparent AI companion for career, health, relationships, and learning.">
 
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -24,37 +24,39 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="bg-deep-space text-soft-white antialiased">
+<body class="bg-cream-soft text-charcoal antialiased">
 
     <!-- Navigation -->
     <nav x-data="{ scrolled: false, mobileMenuOpen: false }"
          @scroll.window="scrolled = window.scrollY > 20"
-         :class="scrolled ? 'bg-deep-space/95 backdrop-blur-sm shadow-lg' : 'bg-transparent'"
+         :class="scrolled ? 'bg-cloud/95 backdrop-blur-sm shadow-md' : 'bg-transparent'"
          class="fixed top-0 left-0 right-0 z-50 transition-all duration-300">
         <div class="max-w-7xl mx-auto px-6 py-4">
             <div class="flex items-center justify-between">
                 <!-- Logo -->
                 <div class="flex items-center space-x-2">
-                    <div class="w-8 h-8 bg-gradient-to-br from-quantum-blue to-electric-cyan rounded-lg"></div>
-                    <span class="text-xl font-semibold">Robert</span>
+                    <div class="w-10 h-10 bg-gradient-to-br from-sky-bright to-meadow rounded-2xl flex items-center justify-center">
+                        <span class="text-lg font-bold text-cloud">R</span>
+                    </div>
+                    <span class="text-xl font-semibold text-charcoal">Robert</span>
                 </div>
 
                 <!-- Desktop Nav -->
                 <div class="hidden md:flex items-center space-x-8">
-                    <a href="#features" class="text-slate-gray hover:text-electric-cyan transition-colors">Features</a>
-                    <a href="#use-cases" class="text-slate-gray hover:text-electric-cyan transition-colors">Use Cases</a>
-                    <a href="#how-it-works" class="text-slate-gray hover:text-electric-cyan transition-colors">How It Works</a>
+                    <a href="#how-it-helps" class="text-stone hover:text-charcoal transition-colors font-medium">How It Helps</a>
+                    <a href="#moments" class="text-stone hover:text-charcoal transition-colors font-medium">Life Moments</a>
+                    <a href="#trust" class="text-stone hover:text-charcoal transition-colors font-medium">Why Trust Us</a>
                 </div>
 
                 <!-- CTA Button Desktop -->
                 <div class="hidden md:block">
-                    <a href="#download" class="btn-primary inline-block px-6 py-3 bg-electric-cyan text-deep-space font-semibold rounded-lg">
-                        Try Robert Alpha
+                    <a href="#try" class="btn-primary inline-block px-6 py-3 bg-accent-warm text-cloud font-semibold rounded-xl hover:shadow-lg transition-all">
+                        Try Alpha
                     </a>
                 </div>
 
                 <!-- Mobile Menu Button -->
-                <button @click="mobileMenuOpen = !mobileMenuOpen" class="md:hidden text-soft-white">
+                <button @click="mobileMenuOpen = !mobileMenuOpen" class="md:hidden text-charcoal">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path x-show="!mobileMenuOpen" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
                         <path x-show="mobileMenuOpen" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
@@ -68,11 +70,11 @@
                  x-transition:enter-start="opacity-0 transform scale-95"
                  x-transition:enter-end="opacity-100 transform scale-100"
                  class="md:hidden mt-4 pb-4 space-y-3">
-                <a href="#features" class="block text-slate-gray hover:text-electric-cyan transition-colors py-2">Features</a>
-                <a href="#use-cases" class="block text-slate-gray hover:text-electric-cyan transition-colors py-2">Use Cases</a>
-                <a href="#how-it-works" class="block text-slate-gray hover:text-electric-cyan transition-colors py-2">How It Works</a>
-                <a href="#download" class="block mt-4 px-6 py-3 bg-electric-cyan text-deep-space font-semibold rounded-lg text-center">
-                    Try Robert Alpha
+                <a href="#how-it-helps" class="block text-stone hover:text-charcoal transition-colors py-2 font-medium">How It Helps</a>
+                <a href="#moments" class="block text-stone hover:text-charcoal transition-colors py-2 font-medium">Life Moments</a>
+                <a href="#trust" class="block text-stone hover:text-charcoal transition-colors py-2 font-medium">Why Trust Us</a>
+                <a href="#try" class="block mt-4 px-6 py-3 bg-accent-warm text-cloud font-semibold rounded-xl text-center">
+                    Try Alpha
                 </a>
             </div>
         </div>
@@ -80,89 +82,91 @@
 
     <!-- Hero Section -->
     <section class="relative min-h-screen flex items-center justify-center overflow-hidden pt-20">
-        <!-- Subtle Energy Field - Static background -->
-        <div class="energy-field"></div>
-
-        <!-- Subtle Grid Background -->
-        <div class="grid-background"></div>
-
-        <!-- Matisse-Inspired Organic Shapes - Childhood Art Aesthetic -->
-        <div class="organic-shape organic-leaf"></div>
-        <div class="organic-shape organic-circle"></div>
-        <div class="organic-shape organic-square"></div>
-        <div class="organic-shape organic-wave"></div>
-        <div class="organic-shape organic-crescent"></div>
-        <div class="organic-shape organic-star"></div>
+        <!-- Playful Background Shapes -->
+        <div class="organic-shape organic-circle-1"></div>
+        <div class="organic-shape organic-blob-1"></div>
+        <div class="organic-shape organic-leaf-1"></div>
+        <div class="organic-shape organic-star-1"></div>
 
         <div class="max-w-7xl mx-auto px-6 py-20 relative z-10">
             <div class="text-center fade-in">
                 <!-- Badge -->
-                <div class="inline-flex items-center space-x-2 px-4 py-2 bg-carbon/50 border border-quantum-blue/30 rounded-full mb-8">
-                    <span class="w-2 h-2 bg-warning-amber rounded-full pulse-glow"></span>
-                    <span class="text-sm text-slate-gray">Alpha • Latest Mac Models</span>
+                <div class="inline-flex items-center space-x-2 px-4 py-2 bg-cloud border border-sunrise/30 rounded-full mb-8 shadow-sm">
+                    <span class="w-2 h-2 bg-sunrise rounded-full animate-pulse"></span>
+                    <span class="text-sm text-stone font-medium">Alpha • Mac</span>
                 </div>
 
                 <!-- Hero Headline -->
-                <h1 class="text-5xl md:text-7xl font-light leading-tight mb-6">
-                    Navigate Life<br>
-                    <span class="text-gradient font-normal">with Grace</span>
+                <h1 class="text-5xl md:text-7xl font-light leading-tight mb-6 text-charcoal">
+                    Life feels lighter<br>
+                    <span class="text-gradient-warm font-normal">when you're not alone</span>
                 </h1>
 
                 <!-- Subheading -->
-                <p class="text-xl md:text-2xl text-slate-gray max-w-3xl mx-auto mb-12">
-                    Your transparent AI companion for job, health, love, and learning. See what it's doing. Your settings, your privacy.
+                <p class="text-xl md:text-2xl text-stone max-w-3xl mx-auto mb-12 leading-relaxed">
+                    Robert helps with career, health, relationships, and growth—<br class="hidden md:block">transparently, privately, and on your terms.
                 </p>
 
                 <!-- CTA Buttons -->
-                <div class="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">
-                    <a href="#download" class="btn-primary w-full sm:w-auto px-8 py-4 bg-electric-cyan text-deep-space font-semibold rounded-lg text-lg">
-                        Try Robert Alpha
+                <div class="flex flex-col sm:flex-row items-center justify-center gap-4 mb-20">
+                    <a href="#try" class="btn-primary w-full sm:w-auto px-8 py-4 bg-accent-warm text-cloud font-semibold rounded-xl text-lg shadow-lg hover:shadow-xl transition-all">
+                        Get Started
                     </a>
-                    <a href="#use-cases" class="w-full sm:w-auto px-8 py-4 border-2 border-slate-gray text-soft-white font-semibold rounded-lg text-lg hover:border-electric-cyan transition-colors">
-                        See What It Can Do
+                    <a href="#moments" class="w-full sm:w-auto px-8 py-4 border-2 border-stone/30 text-charcoal font-semibold rounded-xl text-lg hover:border-sky-bright hover:bg-sky-bright/5 transition-all">
+                        See How It Works
                     </a>
                 </div>
 
-                <!-- Hero Visual -->
-                <div class="relative max-w-5xl mx-auto">
-                    <div class="relative bg-carbon border border-slate-gray/20 rounded-xl p-8 shadow-2xl">
+                <!-- Hero Visual - Transparency Demo -->
+                <div class="relative max-w-4xl mx-auto">
+                    <div class="bg-cloud border-2 border-sky-bright/20 rounded-2xl p-8 shadow-2xl">
                         <!-- Browser Chrome -->
-                        <div class="flex items-center space-x-2 mb-4">
+                        <div class="flex items-center space-x-3 mb-6">
                             <div class="flex space-x-2">
-                                <div class="w-3 h-3 rounded-full bg-alert-red"></div>
-                                <div class="w-3 h-3 rounded-full bg-warning-amber"></div>
-                                <div class="w-3 h-3 rounded-full bg-success-green"></div>
+                                <div class="w-3 h-3 rounded-full bg-coral"></div>
+                                <div class="w-3 h-3 rounded-full bg-sunrise"></div>
+                                <div class="w-3 h-3 rounded-full bg-meadow"></div>
                             </div>
-                            <div class="flex-1 bg-deep-space rounded px-4 py-2 text-sm text-slate-gray text-left">
-                                career.example.com
+                            <div class="flex-1 bg-cream-soft rounded-lg px-4 py-2 text-sm text-stone text-left font-medium">
+                                career-search.robert.app
                             </div>
                         </div>
 
                         <!-- Demo Content -->
-                        <div class="bg-deep-space rounded-lg p-6 space-y-4">
-                            <div class="flex items-start space-x-3">
-                                <div class="w-2 h-2 bg-electric-cyan rounded-full mt-2 pulse-glow"></div>
-                                <div>
-                                    <p class="text-slate-gray text-sm mb-1">Step 1 of 3</p>
-                                    <p class="text-soft-white">Researching companies in your field...</p>
+                        <div class="bg-cream-soft rounded-xl p-6 space-y-5">
+                            <div class="flex items-start space-x-4">
+                                <div class="w-3 h-3 bg-job-blue rounded-full mt-2 animate-pulse"></div>
+                                <div class="flex-1">
+                                    <p class="text-stone text-sm mb-1 font-medium">Right now</p>
+                                    <p class="text-charcoal font-medium">Searching for design roles in your area...</p>
+                                    <p class="text-stone text-sm mt-1">Checking 12 companies you might like</p>
                                 </div>
                             </div>
 
-                            <div class="flex items-start space-x-3">
-                                <div class="w-2 h-2 bg-success-green rounded-full mt-2"></div>
-                                <div>
-                                    <p class="text-slate-gray text-sm mb-1">Step 2 of 3</p>
-                                    <p class="text-soft-white">Finding roles that match your experience</p>
+                            <div class="flex items-start space-x-4 opacity-60">
+                                <div class="w-3 h-3 bg-stone/40 rounded-full mt-2"></div>
+                                <div class="flex-1">
+                                    <p class="text-stone text-sm mb-1 font-medium">Next</p>
+                                    <p class="text-charcoal font-medium">Reading job descriptions to match your skills</p>
                                 </div>
                             </div>
 
-                            <div class="flex items-start space-x-3 opacity-50">
-                                <div class="w-2 h-2 bg-slate-gray rounded-full mt-2"></div>
-                                <div>
-                                    <p class="text-slate-gray text-sm mb-1">Step 3 of 3</p>
-                                    <p class="text-soft-white">Organizing application materials...</p>
+                            <div class="flex items-start space-x-4 opacity-40">
+                                <div class="w-3 h-3 bg-stone/30 rounded-full mt-2"></div>
+                                <div class="flex-1">
+                                    <p class="text-stone text-sm mb-1 font-medium">Then</p>
+                                    <p class="text-charcoal font-medium">Organizing the best opportunities for you</p>
                                 </div>
                             </div>
+                        </div>
+
+                        <!-- Live Indicator -->
+                        <div class="mt-6 flex items-center justify-center space-x-2 text-sm text-stone">
+                            <span class="relative flex h-2 w-2">
+                                <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-job-blue opacity-75"></span>
+                                <span class="relative inline-flex rounded-full h-2 w-2 bg-job-blue"></span>
+                            </span>
+                            <span class="font-medium">You can see everything Robert does</span>
                         </div>
                     </div>
                 </div>
@@ -170,271 +174,302 @@
         </div>
     </section>
 
-    <!-- Use Cases Section -->
-    <section id="use-cases" class="py-20 bg-carbon/30">
+    <!-- Life Moments Section -->
+    <section id="moments" class="py-24 bg-gradient-to-b from-cream-soft to-cloud">
         <div class="max-w-7xl mx-auto px-6">
             <div class="text-center mb-16">
-                <h2 class="text-4xl md:text-5xl font-semibold mb-4">
-                    A human helping you <span class="text-gradient">through life</span>
+                <h2 class="text-4xl md:text-5xl font-semibold mb-4 text-charcoal">
+                    Support for <span class="text-gradient-cool">every part of life</span>
                 </h2>
-                <p class="text-xl text-slate-gray max-w-2xl mx-auto">
-                    Navigate the important moments with a transparent companion by your side
+                <p class="text-xl text-stone max-w-2xl mx-auto leading-relaxed">
+                    From career changes to health questions, relationships to learning—Robert is there when you need it
                 </p>
             </div>
 
             <div class="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
-                <!-- Use Case 1: Job -->
-                <div class="card-hover bg-carbon border border-slate-gray/20 rounded-xl p-8">
-                    <div class="w-12 h-12 bg-electric-cyan/10 rounded-lg flex items-center justify-center mb-6">
-                        <svg class="w-6 h-6 text-electric-cyan" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <!-- Career -->
+                <div class="card-light bg-cloud rounded-2xl p-8 shadow-md hover:shadow-xl transition-all border-l-4 border-job-blue">
+                    <div class="w-14 h-14 bg-job-blue/10 rounded-xl flex items-center justify-center mb-6">
+                        <svg class="w-7 h-7 text-job-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
                         </svg>
                     </div>
-                    <h3 class="text-2xl font-semibold mb-3">Job</h3>
-                    <p class="text-slate-gray leading-relaxed">
-                        Navigate career transitions, job searches, and professional growth. Research opportunities, organize applications, and prepare with confidence.
+                    <h3 class="text-2xl font-semibold mb-3 text-charcoal">Career</h3>
+                    <p class="text-stone leading-relaxed mb-4">
+                        From job searches to career pivots. Research companies, prepare for interviews, organize applications—all with someone who shows you every step.
                     </p>
+                    <div class="text-sm text-job-blue font-medium">
+                        → Find opportunities, track applications
+                    </div>
                 </div>
 
-                <!-- Use Case 2: Health -->
-                <div class="card-hover bg-carbon border border-slate-gray/20 rounded-xl p-8">
-                    <div class="w-12 h-12 bg-success-green/10 rounded-lg flex items-center justify-center mb-6">
-                        <svg class="w-6 h-6 text-success-green" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <!-- Health -->
+                <div class="card-light bg-cloud rounded-2xl p-8 shadow-md hover:shadow-xl transition-all border-l-4 border-health-green">
+                    <div class="w-14 h-14 bg-health-green/10 rounded-xl flex items-center justify-center mb-6">
+                        <svg class="w-7 h-7 text-health-green" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
                         </svg>
                     </div>
-                    <h3 class="text-2xl font-semibold mb-3">Health</h3>
-                    <p class="text-slate-gray leading-relaxed">
-                        Support your wellness journey. Find healthcare providers, understand treatment options, and manage appointments with clarity and ease.
+                    <h3 class="text-2xl font-semibold mb-3 text-charcoal">Health</h3>
+                    <p class="text-stone leading-relaxed mb-4">
+                        Find doctors, understand treatment options, manage appointments. Get clarity on health decisions without the overwhelm.
                     </p>
+                    <div class="text-sm text-health-green font-medium">
+                        → Find care, understand options
+                    </div>
                 </div>
 
-                <!-- Use Case 3: Love -->
-                <div class="card-hover bg-carbon border border-slate-gray/20 rounded-xl p-8">
-                    <div class="w-12 h-12 bg-quantum-blue/10 rounded-lg flex items-center justify-center mb-6">
-                        <svg class="w-6 h-6 text-quantum-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <!-- Relationships -->
+                <div class="card-light bg-cloud rounded-2xl p-8 shadow-md hover:shadow-xl transition-all border-l-4 border-love-pink">
+                    <div class="w-14 h-14 bg-love-pink/10 rounded-xl flex items-center justify-center mb-6">
+                        <svg class="w-7 h-7 text-love-pink" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"></path>
                         </svg>
                     </div>
-                    <h3 class="text-2xl font-semibold mb-3">Love</h3>
-                    <p class="text-slate-gray leading-relaxed">
-                        Nurture meaningful connections. Plan thoughtful moments, remember important dates, and strengthen relationships with the people who matter most.
+                    <h3 class="text-2xl font-semibold mb-3 text-charcoal">Relationships</h3>
+                    <p class="text-stone leading-relaxed mb-4">
+                        Remember birthdays, plan thoughtful moments, keep up with people who matter. Nurture connections with warmth and intention.
                     </p>
+                    <div class="text-sm text-love-pink font-medium">
+                        → Remember moments, stay connected
+                    </div>
                 </div>
 
-                <!-- Use Case 4: Learning -->
-                <div class="card-hover bg-carbon border border-slate-gray/20 rounded-xl p-8">
-                    <div class="w-12 h-12 bg-warning-amber/10 rounded-lg flex items-center justify-center mb-6">
-                        <svg class="w-6 h-6 text-warning-amber" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <!-- Learning -->
+                <div class="card-light bg-cloud rounded-2xl p-8 shadow-md hover:shadow-xl transition-all border-l-4 border-learning-purple">
+                    <div class="w-14 h-14 bg-learning-purple/10 rounded-xl flex items-center justify-center mb-6">
+                        <svg class="w-7 h-7 text-learning-purple" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
                         </svg>
                     </div>
-                    <h3 class="text-2xl font-semibold mb-3">Learning</h3>
-                    <p class="text-slate-gray leading-relaxed">
-                        Fuel your curiosity and growth. Discover courses, organize study materials, and explore new skills at your own pace with a patient guide.
+                    <h3 class="text-2xl font-semibold mb-3 text-charcoal">Learning</h3>
+                    <p class="text-stone leading-relaxed mb-4">
+                        Explore new skills, find courses, organize study materials. Feed your curiosity and grow at your own pace with a patient guide.
                     </p>
+                    <div class="text-sm text-learning-purple font-medium">
+                        → Discover, organize, grow
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Features Section -->
-    <section id="features" class="py-20">
+    <!-- How It Helps Section -->
+    <section id="how-it-helps" class="py-24 bg-cloud">
         <div class="max-w-7xl mx-auto px-6">
             <div class="text-center mb-16">
-                <h2 class="text-4xl md:text-5xl font-semibold mb-4">
-                    Built for <span class="text-gradient">transparency and trust</span>
+                <h2 class="text-4xl md:text-5xl font-semibold mb-4 text-charcoal">
+                    Simple to use, <span class="text-gradient-warm">powerful to experience</span>
                 </h2>
-                <p class="text-xl text-slate-gray max-w-2xl mx-auto">
-                    See what Robert is doing, every step of the way. Your settings, your privacy, your control.
+                <p class="text-xl text-stone max-w-2xl mx-auto leading-relaxed">
+                    Just describe what you need. Robert takes it from there—and shows you everything along the way
                 </p>
             </div>
 
-            <div class="grid md:grid-cols-2 gap-8">
-                <!-- Feature 1 -->
-                <div class="card-hover bg-carbon border border-slate-gray/20 rounded-xl p-8">
-                    <div class="w-12 h-12 bg-electric-cyan/10 rounded-lg flex items-center justify-center mb-6">
-                        <svg class="w-6 h-6 text-electric-cyan" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"></path>
-                        </svg>
-                    </div>
-                    <h3 class="text-2xl font-semibold mb-3">See Every Step</h3>
-                    <p class="text-slate-gray leading-relaxed">
-                        Watch Robert work in real-time. See every action it takes, from clicking buttons to filling forms—complete transparency.
-                    </p>
-                </div>
-
-                <!-- Feature 2 -->
-                <div class="card-hover bg-carbon border border-slate-gray/20 rounded-xl p-8">
-                    <div class="w-12 h-12 bg-quantum-blue/10 rounded-lg flex items-center justify-center mb-6">
-                        <svg class="w-6 h-6 text-quantum-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
-                        </svg>
-                    </div>
-                    <h3 class="text-2xl font-semibold mb-3">Natural Conversation</h3>
-                    <p class="text-slate-gray leading-relaxed">
-                        Talk to Robert like a human. Share what you need in your own words—no technical knowledge required.
-                    </p>
-                </div>
-
-                <!-- Feature 3 -->
-                <div class="card-hover bg-carbon border border-slate-gray/20 rounded-xl p-8">
-                    <div class="w-12 h-12 bg-success-green/10 rounded-lg flex items-center justify-center mb-6">
-                        <svg class="w-6 h-6 text-success-green" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path>
-                        </svg>
-                    </div>
-                    <h3 class="text-2xl font-semibold mb-3">Your Settings, Your Privacy</h3>
-                    <p class="text-slate-gray leading-relaxed">
-                        Everything belongs to you. Your data, your settings, your preferences—completely private and under your control.
-                    </p>
-                </div>
-
-                <!-- Feature 4 -->
-                <div class="card-hover bg-carbon border border-slate-gray/20 rounded-xl p-8">
-                    <div class="w-12 h-12 bg-warning-amber/10 rounded-lg flex items-center justify-center mb-6">
-                        <svg class="w-6 h-6 text-warning-amber" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path>
-                        </svg>
-                    </div>
-                    <h3 class="text-2xl font-semibold mb-3">Always in Control</h3>
-                    <p class="text-slate-gray leading-relaxed">
-                        Pause, stop, or modify tasks anytime. You're always in charge—Robert works for you, not the other way around.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- How It Works -->
-    <section id="how-it-works" class="py-20 bg-carbon/30">
-        <div class="max-w-7xl mx-auto px-6">
-            <div class="text-center mb-16">
-                <h2 class="text-4xl md:text-5xl font-semibold mb-4">
-                    Getting started is <span class="text-gradient">simple</span>
-                </h2>
-                <p class="text-xl text-slate-gray max-w-2xl mx-auto">
-                    Begin your journey with Robert in just a few steps
-                </p>
-            </div>
-
-            <div class="grid md:grid-cols-3 gap-8">
+            <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto mb-16">
                 <!-- Step 1 -->
                 <div class="text-center">
                     <div class="relative inline-block mb-6">
-                        <div class="w-20 h-20 bg-electric-cyan/10 border-2 border-electric-cyan rounded-full flex items-center justify-center">
-                            <span class="text-3xl font-bold text-electric-cyan">1</span>
+                        <div class="w-20 h-20 bg-gradient-to-br from-job-blue to-sky-bright rounded-full flex items-center justify-center shadow-lg">
+                            <span class="text-3xl font-bold text-cloud">1</span>
                         </div>
                     </div>
-                    <h3 class="text-2xl font-semibold mb-3">Share What You Need</h3>
-                    <p class="text-slate-gray leading-relaxed">
-                        Tell Robert what's on your mind. "Help me find a new job" or "I need to understand my health options."
+                    <h3 class="text-2xl font-semibold mb-3 text-charcoal">Tell Robert what you need</h3>
+                    <p class="text-stone leading-relaxed">
+                        In your own words. "Help me find a new job" or "I need to understand my insurance options."
                     </p>
                 </div>
 
                 <!-- Step 2 -->
                 <div class="text-center">
                     <div class="relative inline-block mb-6">
-                        <div class="w-20 h-20 bg-quantum-blue/10 border-2 border-quantum-blue rounded-full flex items-center justify-center">
-                            <span class="text-3xl font-bold text-quantum-blue">2</span>
+                        <div class="w-20 h-20 bg-gradient-to-br from-meadow to-health-green rounded-full flex items-center justify-center shadow-lg">
+                            <span class="text-3xl font-bold text-cloud">2</span>
                         </div>
                     </div>
-                    <h3 class="text-2xl font-semibold mb-3">See Everything</h3>
-                    <p class="text-slate-gray leading-relaxed">
-                        Watch Robert work transparently. Every action is visible, every decision is clear—no hidden steps, no surprises.
+                    <h3 class="text-2xl font-semibold mb-3 text-charcoal">Watch it work</h3>
+                    <p class="text-stone leading-relaxed">
+                        See every action in real-time. No black boxes, no hidden steps. Just clarity and transparency.
                     </p>
                 </div>
 
                 <!-- Step 3 -->
                 <div class="text-center">
                     <div class="relative inline-block mb-6">
-                        <div class="w-20 h-20 bg-success-green/10 border-2 border-success-green rounded-full flex items-center justify-center">
-                            <span class="text-3xl font-bold text-success-green">3</span>
+                        <div class="w-20 h-20 bg-gradient-to-br from-sunrise to-accent-warm rounded-full flex items-center justify-center shadow-lg">
+                            <span class="text-3xl font-bold text-cloud">3</span>
                         </div>
                     </div>
-                    <h3 class="text-2xl font-semibold mb-3">Move Forward</h3>
-                    <p class="text-slate-gray leading-relaxed">
-                        Get the support you need, when you need it. Navigate life's challenges with a companion who understands and helps.
+                    <h3 class="text-2xl font-semibold mb-3 text-charcoal">Stay in control</h3>
+                    <p class="text-stone leading-relaxed">
+                        Pause, adjust, or stop anytime. Your settings, your privacy, your pace. You're always in charge.
                     </p>
+                </div>
+            </div>
+
+            <!-- Feature Grid -->
+            <div class="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto">
+                <div class="flex items-start space-x-4 bg-cream-soft rounded-xl p-6">
+                    <div class="w-10 h-10 bg-sky-bright/20 rounded-lg flex items-center justify-center flex-shrink-0">
+                        <svg class="w-5 h-5 text-sky-bright" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"></path>
+                        </svg>
+                    </div>
+                    <div>
+                        <h4 class="font-semibold text-charcoal mb-1">Complete Transparency</h4>
+                        <p class="text-stone text-sm">See every action Robert takes—clicking, typing, searching. No surprises.</p>
+                    </div>
+                </div>
+
+                <div class="flex items-start space-x-4 bg-cream-soft rounded-xl p-6">
+                    <div class="w-10 h-10 bg-meadow/20 rounded-lg flex items-center justify-center flex-shrink-0">
+                        <svg class="w-5 h-5 text-meadow" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path>
+                        </svg>
+                    </div>
+                    <div>
+                        <h4 class="font-semibold text-charcoal mb-1">Your Privacy, Protected</h4>
+                        <p class="text-stone text-sm">All your data stays private. Your settings, your control, always.</p>
+                    </div>
+                </div>
+
+                <div class="flex items-start space-x-4 bg-cream-soft rounded-xl p-6">
+                    <div class="w-10 h-10 bg-coral/20 rounded-lg flex items-center justify-center flex-shrink-0">
+                        <svg class="w-5 h-5 text-coral" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"></path>
+                        </svg>
+                    </div>
+                    <div>
+                        <h4 class="font-semibold text-charcoal mb-1">Natural Conversation</h4>
+                        <p class="text-stone text-sm">Talk like you would to a friend. No technical jargon needed.</p>
+                    </div>
+                </div>
+
+                <div class="flex items-start space-x-4 bg-cream-soft rounded-xl p-6">
+                    <div class="w-10 h-10 bg-lavender/20 rounded-lg flex items-center justify-center flex-shrink-0">
+                        <svg class="w-5 h-5 text-lavender" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path>
+                        </svg>
+                    </div>
+                    <div>
+                        <h4 class="font-semibold text-charcoal mb-1">Always Your Choice</h4>
+                        <p class="text-stone text-sm">Pause, modify, or stop tasks whenever you want. You decide.</p>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- CTA Section -->
-    <section id="download" class="py-20 bg-gradient-to-br from-quantum-blue/10 via-transparent to-electric-cyan/10">
+    <!-- Trust Section -->
+    <section id="trust" class="py-24 bg-gradient-to-b from-cloud to-sky-bright/10">
         <div class="max-w-4xl mx-auto px-6 text-center">
-            <h2 class="text-4xl md:text-5xl font-semibold mb-6">
-                Ready to move through life <span class="text-gradient">with grace</span>?
+            <h2 class="text-4xl md:text-5xl font-semibold mb-6 text-charcoal">
+                Built on <span class="text-gradient-cool">transparency and respect</span>
             </h2>
-            <p class="text-xl text-slate-gray mb-12 max-w-2xl mx-auto">
-                Robert is in early alpha. Join us in shaping a more human way to navigate life's journey.
+            <p class="text-xl text-stone mb-12 leading-relaxed max-w-3xl mx-auto">
+                We believe AI should show you what it's doing, respect your privacy, and put you in control. Not because we have to—because it's right.
             </p>
 
-            <div class="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8">
-                <a href="#" class="btn-primary w-full sm:w-auto px-8 py-4 bg-electric-cyan text-deep-space font-semibold rounded-lg text-lg inline-flex items-center justify-center space-x-2">
-                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20">
-                        <path fill-rule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd"></path>
-                    </svg>
-                    <span>Download Alpha</span>
-                </a>
+            <div class="grid md:grid-cols-3 gap-8 mb-12">
+                <div class="bg-cloud rounded-xl p-6 shadow-md">
+                    <div class="text-4xl mb-3">👁️</div>
+                    <h3 class="font-semibold text-charcoal mb-2">See Everything</h3>
+                    <p class="text-stone text-sm">Every click, every search, every action—visible to you in real-time</p>
+                </div>
+                <div class="bg-cloud rounded-xl p-6 shadow-md">
+                    <div class="text-4xl mb-3">🔒</div>
+                    <h3 class="font-semibold text-charcoal mb-2">Private by Default</h3>
+                    <p class="text-stone text-sm">Your data belongs to you. We don't sell it, share it, or use it for training</p>
+                </div>
+                <div class="bg-cloud rounded-xl p-6 shadow-md">
+                    <div class="text-4xl mb-3">🎛️</div>
+                    <h3 class="font-semibold text-charcoal mb-2">You're in Control</h3>
+                    <p class="text-stone text-sm">Customize everything, pause anytime, delete whenever you want</p>
+                </div>
             </div>
 
-            <p class="text-sm text-slate-gray mb-4">
-                Currently supports: Latest Mac models (Apple Silicon)
-            </p>
-            <p class="text-xs text-slate-gray">
-                Requires: Claude subscription or API key
+            <p class="text-stone italic leading-relaxed">
+                "We're building Robert the way we'd want it ourselves: honest, helpful, and human."
             </p>
         </div>
     </section>
 
+    <!-- CTA Section -->
+    <section id="try" class="py-24 bg-gradient-to-br from-sunrise/10 via-lavender/10 to-sky-bright/10">
+        <div class="max-w-4xl mx-auto px-6 text-center">
+            <h2 class="text-4xl md:text-5xl font-semibold mb-6 text-charcoal">
+                Ready to try Robert?
+            </h2>
+            <p class="text-xl text-stone mb-10 max-w-2xl mx-auto leading-relaxed">
+                We're in early alpha. It's rough around the edges, but it's real—and we'd love your feedback as we build.
+            </p>
+
+            <div class="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8">
+                <a href="#" class="btn-primary w-full sm:w-auto px-8 py-4 bg-accent-warm text-cloud font-semibold rounded-xl text-lg inline-flex items-center justify-center space-x-2 shadow-lg hover:shadow-xl transition-all">
+                    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                    </svg>
+                    <span>Download for Mac</span>
+                </a>
+            </div>
+
+            <div class="space-y-2">
+                <p class="text-sm text-stone font-medium">
+                    Currently: Mac only (Apple Silicon) • Requires Claude API or subscription
+                </p>
+                <p class="text-xs text-stone">
+                    Free alpha • No credit card required
+                </p>
+            </div>
+        </div>
+    </section>
+
     <!-- Footer -->
-    <footer class="py-12 border-t border-slate-gray/20">
+    <footer class="py-12 bg-cloud border-t border-stone/10">
         <div class="max-w-7xl mx-auto px-6">
-            <div class="grid md:grid-cols-3 gap-8 mb-8">
+            <div class="grid md:grid-cols-4 gap-8 mb-8">
                 <!-- Brand -->
-                <div>
+                <div class="md:col-span-2">
                     <div class="flex items-center space-x-2 mb-4">
-                        <div class="w-8 h-8 bg-gradient-to-br from-quantum-blue to-electric-cyan rounded-lg"></div>
-                        <span class="text-xl font-semibold">Robert</span>
+                        <div class="w-10 h-10 bg-gradient-to-br from-sky-bright to-meadow rounded-2xl flex items-center justify-center">
+                            <span class="text-lg font-bold text-cloud">R</span>
+                        </div>
+                        <span class="text-xl font-semibold text-charcoal">Robert</span>
                     </div>
-                    <p class="text-slate-gray text-sm leading-relaxed">
-                        Your transparent AI companion for navigating life with grace. Supporting you through job, health, love, and learning.
+                    <p class="text-stone text-sm leading-relaxed max-w-md">
+                        Your transparent AI companion for navigating life with grace. Career, health, relationships, learning—we're here when you need us.
                     </p>
                 </div>
 
                 <!-- Product -->
                 <div>
-                    <h3 class="font-semibold mb-4">Product</h3>
+                    <h3 class="font-semibold text-charcoal mb-4">Product</h3>
                     <ul class="space-y-2 text-sm">
-                        <li><a href="#features" class="text-slate-gray hover:text-electric-cyan transition-colors">Features</a></li>
-                        <li><a href="#use-cases" class="text-slate-gray hover:text-electric-cyan transition-colors">Use Cases</a></li>
-                        <li><a href="#how-it-works" class="text-slate-gray hover:text-electric-cyan transition-colors">How It Works</a></li>
-                        <li><a href="#download" class="text-slate-gray hover:text-electric-cyan transition-colors">Download</a></li>
+                        <li><a href="#how-it-helps" class="text-stone hover:text-charcoal transition-colors">How It Helps</a></li>
+                        <li><a href="#moments" class="text-stone hover:text-charcoal transition-colors">Life Moments</a></li>
+                        <li><a href="#trust" class="text-stone hover:text-charcoal transition-colors">Why Trust Us</a></li>
+                        <li><a href="#try" class="text-stone hover:text-charcoal transition-colors">Try Alpha</a></li>
                     </ul>
                 </div>
 
-                <!-- Support -->
+                <!-- Company -->
                 <div>
-                    <h3 class="font-semibold mb-4">Support</h3>
+                    <h3 class="font-semibold text-charcoal mb-4">Company</h3>
                     <ul class="space-y-2 text-sm">
-                        <li><a href="#" class="text-slate-gray hover:text-electric-cyan transition-colors">Help Center</a></li>
-                        <li><a href="#" class="text-slate-gray hover:text-electric-cyan transition-colors">Contact Us</a></li>
-                        <li><a href="#" class="text-slate-gray hover:text-electric-cyan transition-colors">Privacy Policy</a></li>
-                        <li><a href="#" class="text-slate-gray hover:text-electric-cyan transition-colors">Terms of Service</a></li>
+                        <li><a href="#" class="text-stone hover:text-charcoal transition-colors">About</a></li>
+                        <li><a href="#" class="text-stone hover:text-charcoal transition-colors">Privacy</a></li>
+                        <li><a href="#" class="text-stone hover:text-charcoal transition-colors">Terms</a></li>
+                        <li><a href="#" class="text-stone hover:text-charcoal transition-colors">Contact</a></li>
                     </ul>
                 </div>
             </div>
 
-            <div class="pt-8 border-t border-slate-gray/20 text-center text-sm text-slate-gray">
-                <p>&copy; 2025 Robert. All rights reserved.</p>
+            <div class="pt-8 border-t border-stone/10 text-center text-sm text-stone">
+                <p>&copy; 2025 Robert. Built with care for people navigating life's moments.</p>
             </div>
         </div>
     </footer>
 
-    <!-- Custom JS -->
-    <script src="app.js"></script>
 </body>
 </html>
